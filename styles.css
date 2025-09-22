@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+    
+}
+
+body {
+    background-image: linear-gradient(to left,rgb(86, 120, 232), rgb(189, 96, 229) );
+}
+
+nav {
+    background-color:rgb(175, 115, 232);
+    padding:20px;
+}
+nav {
+    padding:20px;
+}
+
+.Content {
+    display:inline-block;
+    vertical-align: top;
+    padding-right:30px;
+    width:40%;
+}
+
+ul {
+    display:flex;
+    list-style:none;
+    justify-content: center;
+}
+
+ul li {
+   width:30%;
+}
